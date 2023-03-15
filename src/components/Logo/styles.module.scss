@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    h1 {
+        font-size: 18px;
+        font-weight: normal;
+    }
+
+    img {
+        transition: all .3s ease;
+    }
+
+    &:hover img {
+        transform: rotate(20deg);
+    }
+}
