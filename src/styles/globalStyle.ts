@@ -15,6 +15,10 @@ const AppStyleContainer = createGlobalStyle`
       padding: 40px 30px;
     }
 
+    * {
+      transition: all 0.3s ease;
+    }
+
     html {
         box-sizing: border-box;
         width: 100%;

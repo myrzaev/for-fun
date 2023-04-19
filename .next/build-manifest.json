@@ -25,10 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/data-structure/linked-list": [
+    "/data-structure/graph": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/data-structure/linked-list.js"
+      "static/chunks/pages/data-structure/graph.js"
     ]
   },
   "ampFirstPages": []

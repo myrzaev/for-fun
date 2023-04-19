@@ -2,5 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/data-structure/linked-list": "pages/data-structure/linked-list.js"
+  "/data-structure/graph": "pages/data-structure/graph.js"
 }
